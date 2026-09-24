@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @Sahilja27
-- 👀 I’m interested in web development and artificial intelligence...
-- 🌱 I’m currently learning Html-Css  ...
-- 💞️ I’m looking to collaborate on Basic project on Html-Css...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Sahil Jadhav
 
-<!---
-Sahilja27/Sahilja27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 B.Tech AI & ML Student
+🤖 Interested in AI/ML, Generative AI & Backend Development
+🌱 Currently learning DSA, LLMs, RAG & AI Agents
+🛠️ Building AI-powered projects and automation workflows
+🤝 Open to collaborating on interesting projects
+
+### 💻 Tech Stack
+
+Python • SQL • JavaScript • React • Node.js • TensorFlow • Scikit-learn • Git • n8n
+
+📫 Let's connect and build something useful!
